@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="HelloApplication" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="com.example.java_31_set_di_una_label_tramite_casella_di_testo.HelloApplication" />
+    <module name="java_31_set_di_una_label_tramite_casella_di_testo" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
